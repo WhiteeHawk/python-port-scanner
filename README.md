@@ -2,7 +2,6 @@
 
 A simple multi-threaded port scanner built in Python.
 This tool is designed for educational purposes to understand how network scanning works.
-
 ---
 ##  Features
 
